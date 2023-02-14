@@ -143,3 +143,13 @@ once the dataframes are created, we should use my sql connecter to upload the da
 # using create_engine module opening the MySql with correct credentials
 engine = create_engine('mysql+mysqlconnector://username:password@127.0.0.1:3306/databasename')
 ```
+
+## Uploading to MySQL
+
+once you create the engine the next process is to upload the dataframe created.
+
+```
+# create a table name and store the dataframe
+df_concat_agg_tran.to_sql(name='Aggregate_Transaction', con=engine, if_exists='replace', index=False)
+
+```
