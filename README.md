@@ -6,19 +6,19 @@ PhonePe Pulse is a window to the world of how India transacts, with interesting 
 
 ## Data
 
-The data used in PhonePe Pulse is available in this link [*PhonePe Pulse*](https://github.com/PhonePe/pulse.git). The data is divided into different categories, such as transaction data, user data, and top data. The data is stored in JSON format.
+The data used in PhonePe Pulse is available in this link [*PhonePe Pulse*](https://github.com/PhonePe/pulse.git). The data is divided into different categories, such as transaction data, user data, and top data. The data is stored in JSON format. A complete description of the data is provided in the link above, before proceeding to data visualisation or data processing kindly understand the data completly.
 
 ## Dashboard
 
-The PhonePe Pulse dashboard is available in the *display* folder of this repository. It is built using the open-source streamlit and plotly for Python, and provides an interactive way to explore the data.
+The PhonePe Pulse dashboard is available in the *display* folder of this repository. It is built using the open-source streamlit and plotly for Python, and provides an interactive way to explore the data. Kindly go through the readme file display.md before getting into the visualisation
 
 ## Code
 
-The code used to extract, clean, and analyze the data is available in the *PhonePeDataframes* folder of this repository. It is written in Python and uses libraries such as Pandas, glob.
+The code used to extract, clean, and analyze the data is available in the *PhonePeDataframes* folder of this repository. It is written in Python and uses libraries such as Pandas, glob.Kindly go throgh the readme file PhonePeDataframes.md so that you get to know how to extract the data from json file.
 
 ## Contributors
 
-This project was created by [Bhuvaneshwar]. 
+This project was created by Bhuvaneshwar. 
 
 ## Instruction
 
