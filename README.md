@@ -25,3 +25,7 @@ This project was created by [Bhuvaneshwar].
 The instruction for the code block and the dashboard block is given in seperate readme files in the repository.
 
 ## Demo Video
+
+
+https://user-images.githubusercontent.com/118096816/218647751-1390d1c2-ab63-4c7a-b0b7-bb3001d27aa7.mp4
+
